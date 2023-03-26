@@ -1,0 +1,30 @@
+
+
+header form{
+    margin-left: 270px;
+}
+
+header h3{
+    color: WHITE;
+    margin-left: 570px;
+}
+
+.container_new {
+    background-image:url('bg.jpg') ;
+    background-size: cover;
+    height: 1200px;
+    background-repeat: no-repeat;
+    margin-top: -20px;
+
+}
+
+.card h5 {
+    font-size: 10px;
+   
+}
+
+.card {
+    margin: 5px;
+    padding: 5px;
+}
+
